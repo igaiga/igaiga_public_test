@@ -3,4 +3,4 @@ class Foo
     p "hello!"
   end
 end
-    
+Foo.new.bar
